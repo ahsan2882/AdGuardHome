@@ -25,9 +25,9 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/ti-mo/netfilter v0.4.0
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/net v0.0.0-20210929193557-e81a3d93ecf6
-	golang.org/x/sys v0.0.0-20210909193231-528a39cd75f3
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
+	golang.org/x/sys v0.15.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
 	howett.net/plist v0.0.0-20201203080718-1454fab16a06
